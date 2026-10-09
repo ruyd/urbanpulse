@@ -1,0 +1,6 @@
+{
+  "name": "UrbanPulse - Predictive Traffic & Infrastructure Modeling Engine",
+  "description": "Public sensor-driven traffic modeling platform to forecast multi-year road network congestion patterns, identify emerging bottlenecks, and simulate infrastructure mitigations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
